@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "stock": 25,
+    "code": "abc123"
+  },
+  "2": {
+    "id": 2,
+    "title": "Manzana",
+    "description": "Manzana Red Delicious del Valle",
+    "price": 99,
+    "thumbnail": "manzana.jpg",
+    "stock": 500,
+    "code": "manzana-rd"
+  },
+  "3": {
+    "id": 3,
+    "title": "Pera",
+    "description": "Pera Williams de temporada",
+    "price": 80,
+    "thumbnail": "pera.jpg",
+    "stock": 350,
+    "code": "pera-wi"
+  },
+  "4": {
+    "id": 4,
+    "title": "Banana",
+    "description": "Banana Ecuatoriana",
+    "price": 85.5,
+    "thumbnail": "bananas.jpg",
+    "stock": 200,
+    "code": "banana-ec"
+  }
+}

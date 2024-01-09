@@ -1,4 +1,4 @@
-# 50040-segunda-entrega
+# 50040-tercera-entrega
 
 #### Nombre: César Aracena
 
@@ -12,6 +12,6 @@
 
 #### Tutor: Allan Reynoso Naranjo
 
-#### Entrega Numero: 2
+#### Entrega Numero: 3
 
-#### Este archivo tiene como proposito mostrar el código de creación y uso de una clase en JavaScript la cual serviría como base para el manejo de productos, cumpliendo con las premisas de la segunda entrega del curso.
+#### Este archivo tiene como proposito mostrar el código de ejecucion de un server con node.js
