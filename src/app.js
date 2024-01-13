@@ -6,7 +6,9 @@ const app = express();
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-    res.send('Bienvenidos');
+    res.send(
+        'Bienvenidos. Por favor utilice los siguientes links para navegar:</br></br>Todos los productos: <a href="http://localhost:8080/products">http://localhost:8080/products</a></br>L&iacute;mite de productos: <a href="http://localhost:8080/products?limit=2">http://localhost:8080/products?limit=2</a></br>Un solo productos: <a href="http://localhost:8080/products/2">http://localhost:8080/products/2</a>'
+    );
 });
 
 app.get('/products', (req, res) => {
