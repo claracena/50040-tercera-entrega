@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 // const fs = require('fs');
 // const path = require('path');
-const dbFile = 'db.json';
+const dbFile = './src/db.json';
 
 const finished = (error) => {
     if (error) {

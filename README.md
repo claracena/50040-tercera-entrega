@@ -20,9 +20,9 @@
 
 ### Instrucciones
 
-Una vez descargado / clonado este repositorio, inicializar el proyecto con **npm init** e ingresar a la carpeta **/src**.
+Una vez descargado / clonado este repositorio, inicializar el proyecto con **npm init**.
 
-Luego ejecutar el siguiente comando desde la terminal: **nodemon app.js**
+Luego ejecutar el siguiente comando desde la terminal: **npm start**
 
 El servidor estará escuchando el puerto 8080, por lo que debe dirigirse a http://localhost:8080. Desde allí podrá acceder a los diferentes endpoints:
 
